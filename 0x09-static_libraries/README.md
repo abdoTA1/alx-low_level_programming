@@ -1,0 +1,1 @@
+Static libraries by abdo
